@@ -1,0 +1,1 @@
+# Sample Ruby on Rails app for logging parcels.
